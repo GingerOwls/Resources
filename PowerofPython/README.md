@@ -1,5 +1,5 @@
 
-# :rocket::rocket: Some list of Awesome Resources for Python
+# :rocket::rocket: Awesome Resources for Python
 -------------------------------------------------------------
 
 ### Get started step by step
